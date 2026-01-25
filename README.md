@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a developer passionate about building software
 
 - 💻 I’m a software developer.
 - 🌱 I’m currently learning new technologies and frameworks.
-- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about development and tech!
 - 📫 How to reach me: qureshinazar@outlook.com
 
