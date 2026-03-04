@@ -1,4 +1,4 @@
-# Hi there, I'm Qureshi Nazar! 👋
+﻿# Hi there, I'm Qureshi Nazar! 👋
 
 Welcome to my GitHub profile! I'm a developer passionate about building software and learning new technologies.
 
@@ -9,14 +9,12 @@ Welcome to my GitHub profile! I'm a developer passionate about building software
 - 💬 Ask me about development and tech!
 - 📫 How to reach me: qureshinazar@outlook.com
 
-## 🌟 Test My Live Apps
+## 🌟 My Website
 
-Try one of my most popular tools right now:
+Check out my tools and resources:
 
-### 🔑 [Password Generator](https://aiocrafters.github.io/password-generator/)
-Create strong, secure passwords in seconds — no sign-up, no tracking, just results.
-
-> "Simple tools, powerful impact."
+### 🌐 [AIOCrafters](https://www.aiocrafters.com/)
+Building simple tools for everyday needs.
 
 ## 🛠️ Languages and Tools
 
@@ -29,7 +27,7 @@ Create strong, secure passwords in seconds — no sign-up, no tracking, just res
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 </p>
 
-## � GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=qureshinazar&show_icons=true&theme=radical&count_private=true" alt="qureshinazar's GitHub stats" />
