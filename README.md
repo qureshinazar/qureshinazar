@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a developer passionate about building software
 
 ## 🚀 About Me
 
-- 💻 I’m a software developer.
+- 💻 I’m a self-taught software developer.
 - 🌱 I’m currently learning new technologies and frameworks.
 - 💬 Ask me about development and tech!
 - 📫 How to reach me: qureshinazar@outlook.com
